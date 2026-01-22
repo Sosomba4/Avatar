@@ -166,3 +166,18 @@ main h3 {
     height: 350px;
 }
 
+.trailer {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./img/dd69e0c78a8d0133a3ef0943ba0fad8e74a7dfde.jpg);
+    background-position: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.trailer > a {
+    position: absolute;
+    right: 550px;
+    top: 260px;
+}
