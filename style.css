@@ -154,8 +154,11 @@ section.hero .container {
   font-size: 36px;
   line-height: 100%;
   letter-spacing: 0%;
-  color: #0a3853;
   text-align: justify;
+}
+
+.Jake-phrase {
+  color: #0a3853;
 }
 
 .phrase p {
