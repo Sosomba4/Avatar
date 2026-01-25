@@ -329,8 +329,7 @@ h2 {
 }
 
 .wrap {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
   gap: 36px;
 }
 
@@ -382,4 +381,14 @@ footer img {
 .coop a {
   text-decoration: none;
   color: white;
+}
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+.swiper-pagination {
+  position: static !important; 
+  
 }
